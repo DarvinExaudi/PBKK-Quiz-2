@@ -7,7 +7,7 @@
             <th>GENRE</th>
             <th>KETERANGAN</th>
             <th>HARGA</th>
-            <th>TERJUAL</th>
+            <th>JUMLAH KURSI</th>
             <th colspan="3">AKSI</th>
         </tr>
 

@@ -9,7 +9,7 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon">
-                    <i class="fas fa-store"></i>
+                    <i class="fas fa-film"></i>
                 </div>
                 <div class="sidebar-brand-text mx-3">ADMIN</div>
             </a>
@@ -26,9 +26,9 @@
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="<?php echo base_url('admin/data_barang') ?>">
+                <a class="nav-link" href="<?php echo base_url('admin/data_film') ?>">
                     <i class="fas fa-fw fa-database"></i>
-                    <span>Data Barang</span></a>
+                    <span>Data Film</span></a>
             </li>
 
             <li class="nav-item">
@@ -102,8 +102,8 @@
                         <!-- Nav Item - User Information -->
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Fathin Muhashibi Putra</span>
-                                <img class="img-profile rounded-circle" src=<?php echo base_url('assets/img/profil.jpg') ?>>
+                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Darvin Exaudi Simanjuntak</span>
+                                <img class="img-profile rounded-circle" src="https://media.licdn.com/dms/image/D5603AQEOOSWYXir-8w/profile-displayphoto-shrink_200_200/0/1666514612316?e=2147483647&v=beta&t=MX4vR2DVSZX2_uDAyOHDmlLZlFt6dm-3Cy1MT3Zuids" ?>>
                             </a>
                             <!-- Dropdown - User Information -->
                             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">

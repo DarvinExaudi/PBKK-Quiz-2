@@ -10,7 +10,7 @@
             <div class="form-group">
                 <label>Judul Film</label>
                 <input type="hidden" name="id_film" class="form-control" value="<?php echo $film->id_film ?>">
-                <input type="text" name="judul_film" class="form-control" value="<?php echo $film->nama_film ?>">
+                <input type="text" name="judul_film" class="form-control" value="<?php echo $film->judul_film ?>">
             </div>
 
             <div class="form-group">

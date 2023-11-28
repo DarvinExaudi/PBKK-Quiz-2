@@ -9,9 +9,9 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon">
-                    <i class="fas fa-store"></i>
+                    <i class="fas fa-film"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">TOKO ONLINE</div>
+                <div class="sidebar-brand-text mx-3">TIKET BIOSKOP</div>
             </a>
 
             <!-- Divider -->
@@ -35,31 +35,31 @@
             <!-- Nav Item - Tables -->
             <li class="nav-item">
                 <a class="nav-link" href="tables.html">
-                    <i class="fas fa-fw fa-tv"></i>
+                    <i class="fas fa-fw fa-film"></i>
                     <span>Drama</span></a>
             </li>
 
             <li class="nav-item">
                 <a class="nav-link" href="tables.html">
-                    <i class="fas fa-fw fa-tshirt"></i>
+                    <i class="fas fa-fw fa-film"></i>
                     <span>Aksi</span></a>
             </li>
 
             <li class="nav-item">
                 <a class="nav-link" href="tables.html">
-                    <i class="fas fa-fw fa-tshirt"></i>
+                    <i class="fas fa-fw fa-film"></i>
                     <span>Komedi</span></a>
             </li>
 
             <li class="nav-item">
                 <a class="nav-link" href="tables.html">
-                    <i class="fas fa-fw fa-tshirt"></i>
+                    <i class="fas fa-fw fa-film"></i>
                     <span>Sci-Fi</span></a>
             </li>
 
             <li class="nav-item">
                 <a class="nav-link" href="tables.html">
-                    <i class="fas fa-fw fa-futbol"></i>
+                    <i class="fas fa-fw fa-film"></i>
                     <span>Horor</span></a>
             </li>
 
@@ -128,8 +128,8 @@
                         <!-- Nav Item - User Information -->
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Fathin Muhashibi Putra</span>
-                                <img class="img-profile rounded-circle" src=<?php echo base_url('assets/img/profil.jpg') ?>>
+                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Darvin Exaudi Simanjuntak</span>
+                                <img class="img-profile rounded-circle" src="https://media.licdn.com/dms/image/D5603AQEOOSWYXir-8w/profile-displayphoto-shrink_200_200/0/1666514611842?e=1701302400&v=beta&t=VQ96CJAt7x3h_P3JE5-Xti4e2nUhGPUPSGIfP1gy_DE">
                             </a>
                             <!-- Dropdown - User Information -->
                             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
